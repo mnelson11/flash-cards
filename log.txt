@@ -1,1 +1,0 @@
-{"front":"when was I born?","back":"11/25/91","type":"basic"};{"front":"when was I born","back":"11/25/91","type":"basic"};{"front":"where was I born?","back":"Ames Ia","type":"basic"};
